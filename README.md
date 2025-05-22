@@ -33,9 +33,10 @@ Bem-vindo(a) ao meu portfólio no GitHub! Aqui você encontrará os projetos que
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [🔗 Nome do Projeto](URL) | Breve descrição impactante | `React`, `Node.js`, `MongoDB` |
-| [🔗 Nome do Projeto](URL) | Aplicação que faz X, Y e Z | `HTML`, `CSS`, `JS` |
-| [🔗 Nome do Projeto](URL) | API REST para XYZ | `Express`, `PostgreSQL` |
+| [🔗 Projeto1](URL) | Breve descrição impactante | `React`, `Node.js`, `MongoDB` |
+| [🔗 Projeto2](URL) | Aplicação que faz X, Y e Z | `HTML`, `CSS`, `JS` |
+| [🔗 Projeto3](URL) | API REST para XYZ | `Express`, `PostgreSQL` |
+| [🔗 Projeto](URL) | API REST para XYZ | `Express`, `PostgreSQL` |
 
 > Para ver todos os meus projetos, navegue pelos repositórios acima ☝️
 
